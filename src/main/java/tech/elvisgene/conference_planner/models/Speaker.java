@@ -1,4 +1,4 @@
-package elvis.gene.tech.conferenceplanner.models;
+package tech.elvisgene.conference_planner.models;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import org.hibernate.annotations.Type;

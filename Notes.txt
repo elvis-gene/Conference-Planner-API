@@ -1,0 +1,3 @@
+remote: conferenceapp
+
+@RequestVariable: variable coming from a url

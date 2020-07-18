@@ -1,11 +1,11 @@
-package elvis.gene.tech.conferenceplanner.controllers;
+package tech.elvisgene.conference_planner.controllers;
 
-import elvis.gene.tech.conferenceplanner.models.Session;
-import elvis.gene.tech.conferenceplanner.repositories.SessionRepository;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
+import tech.elvisgene.conference_planner.models.Session;
+import tech.elvisgene.conference_planner.repositories.SessionRepository;
 
 import java.util.List;
 

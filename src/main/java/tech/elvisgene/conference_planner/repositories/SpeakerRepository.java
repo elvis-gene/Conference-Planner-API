@@ -1,7 +1,8 @@
-package elvis.gene.tech.conferenceplanner.repositories;
+package tech.elvisgene.conference_planner.repositories;
 
-import elvis.gene.tech.conferenceplanner.models.Speaker;
+
 import org.springframework.data.jpa.repository.JpaRepository;
+import tech.elvisgene.conference_planner.models.Speaker;
 
 public interface SpeakerRepository extends JpaRepository<Speaker, Long> {
 }
